@@ -12,9 +12,9 @@ EMBED_CONFIG = {
 }
 
 SERVER_CONFIG = {
-    "new_name": "",  # New Server Name here 
+    "Raided by your mom": "",  # New Server Name here 
     "new_icon": "",   # New Server Icon url here → https://image.jpg 
-    "new_description": "",  # New Server Description here 
+    "Raided by Mio": "",  # New Server Description here 
 }
 
 WEBHOOK_CONFIG = {
@@ -38,5 +38,5 @@ NO_BAN_KICK_ID = {
 
 BOT_PRESENCE = {
     "type": "playing",  # "playing", "listening", or "watching"
-    "text": "Nebula"  # Your text presence
+    "text": "hahhahahha"  # Your text presence
 }
